@@ -1,0 +1,11 @@
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.csproj.AssemblyReference.cache
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.Form1.resources
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.Properties.Resources.resources
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.csproj.GenerateResource.cache
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.csproj.CoreCompileInputs.cache
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\bin\Debug\TicTacChess.exe.config
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\bin\Debug\TicTacChess.exe
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\bin\Debug\TicTacChess.pdb
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.exe
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.pdb
