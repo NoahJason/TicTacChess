@@ -63,9 +63,9 @@ namespace TicTacChess.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Knight_Black {
+        internal static System.Drawing.Bitmap black_king {
             get {
-                object obj = ResourceManager.GetObject("Knight_Black", resourceCulture);
+                object obj = ResourceManager.GetObject("black_king", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace TicTacChess.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Knight_White {
+        internal static System.Drawing.Bitmap black_knight {
             get {
-                object obj = ResourceManager.GetObject("Knight_White", resourceCulture);
+                object obj = ResourceManager.GetObject("black_knight", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace TicTacChess.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Queen_Black {
+        internal static System.Drawing.Bitmap black_queen {
             get {
-                object obj = ResourceManager.GetObject("Queen_Black", resourceCulture);
+                object obj = ResourceManager.GetObject("black_queen", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace TicTacChess.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Queen_White {
+        internal static System.Drawing.Bitmap black_rook {
             get {
-                object obj = ResourceManager.GetObject("Queen_White", resourceCulture);
+                object obj = ResourceManager.GetObject("black_rook", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace TicTacChess.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Rook_Black {
+        internal static System.Drawing.Bitmap black_wizard {
             get {
-                object obj = ResourceManager.GetObject("Rook_Black", resourceCulture);
+                object obj = ResourceManager.GetObject("black_wizard", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,49 @@ namespace TicTacChess.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Rook_White {
+        internal static System.Drawing.Bitmap white_king {
             get {
-                object obj = ResourceManager.GetObject("Rook_White", resourceCulture);
+                object obj = ResourceManager.GetObject("white_king", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_knight {
+            get {
+                object obj = ResourceManager.GetObject("white_knight", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_queen {
+            get {
+                object obj = ResourceManager.GetObject("white_queen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_rook {
+            get {
+                object obj = ResourceManager.GetObject("white_rook", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_wizard {
+            get {
+                object obj = ResourceManager.GetObject("white_wizard", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

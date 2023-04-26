@@ -9,3 +9,4 @@ C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\bin\Debug\TicTacChess.exe
 C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\bin\Debug\TicTacChess.pdb
 C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.exe
 C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.pdb
+C:\Users\mjrga\source\repos\TicTacChess\TicTacChess\obj\Debug\TicTacChess.Form2.resources
